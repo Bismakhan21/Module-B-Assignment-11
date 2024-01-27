@@ -1,0 +1,17 @@
+h4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px;
+}
+
+h5{
+    font-size: 18px;
+    padding-right: 10px; 
+}
+
+h3{
+    font-size: 40px;
+    color: rgb(32, 76, 106);
+    padding: 20px 50px;
+    font-weight: 550;
+}

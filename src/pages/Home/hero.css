@@ -1,0 +1,53 @@
+h1{
+    font-size: 4.2rem;
+    text-align: start;
+}
+
+h4{
+    font-size: 1.2rem;
+    text-align: start;
+}
+
+
+@media only screen and (max-width: 320px) {
+    h1{
+        font-size: 1.8rem;
+        text-align: start;
+    }
+    
+    h4{
+        font-size: 0.8rem;
+        padding-right: 20px !important;
+        text-align: start;
+    } 
+  }
+
+  
+@media only screen and (max-width: 425px) {
+
+    h1{
+        font-size: 1.8rem;
+        text-align: start;
+    }
+    
+    h4{
+        font-size: 0.8rem;
+        padding-right: 20px !important;
+        text-align: start;
+
+    } 
+
+
+  }
+
+/* main */
+
+h2{
+   font-size: 3.3rem;
+   color: #333;
+}
+
+p{
+    font-size: 1.3rem;
+    color: #353232;
+}
